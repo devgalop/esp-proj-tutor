@@ -10,6 +10,7 @@ Este proyecto es parte de la especialización en Ingeniería de software y tiene
 - [Leetcode Problems](https://www.kaggle.com/datasets/eemanmajumder/the-leetcode-solution-dataset/data)
 - [Codechef Competitive Programming](https://www.kaggle.com/datasets/arjoonn/codechef-competitive-programming)
 - [Coding Interview Questions](https://www.kaggle.com/datasets/thedevastator/coding-questions-with-solutions)
+- [Python coding problems](https://huggingface.co/datasets/open-r1/verifiable-coding-problems-python/viewer)
 
 ## Links interesantes
 
