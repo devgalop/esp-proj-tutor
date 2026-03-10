@@ -58,14 +58,14 @@ Dentro del aprendizaje supervisado, existen varios algoritmos populares cada uno
 
 | Algoritmo | Tipo de problema | Proposito | Método | Casos de uso |
 | :--- | :---: | :---: | :---: | ---: |
-| Regresión lineal        | Regresión         | Predecir valores continuos de salida         | Ecuación lineal que minimiza la suma de los cuadrados de los residuos | Predicción de valores continuos              |
-| Regresión logística     | Clasificación     | Predecir variable de salida binaria          | Función logística que transforma la relación lineal                  | Tareas de clasificación binaria              |
-| Árboles de decisión     | Ambos             | Modelar decisiones y resultados              | Estructura tipo árbol con decisiones y resultados                    | Tareas de clasificación y regresión          |
-| Bosques aleatorios      | Ambos             | Mejorar la precisión en clasificación y regresión | Combinación de múltiples árboles de decisión                     | Reducir sobreajuste, mejorar precisión       |
-| SVM                     | Ambos             | Crear hiperplano para clasificar o predecir valores continuos | Maximizar el margen entre clases o predecir valores continuos | Tareas de clasificación y regresión          |
-| KNN                     | Ambos             | Predecir clase o valor basado en vecinos más cercanos | Buscar los k vecinos más cercanos y predecir por mayoría o promedio | Tareas de clasificación y regresión, sensible a datos ruidosos |
-| Gradient Boosting       | Ambos             | Combinar modelos débiles para crear uno fuerte | Corregir errores iterativamente con nuevos modelos                  | Tareas de clasificación y regresión, mejorar precisión |
-| Naive Bayes             | Clasificación     | Predecir clase basada en independencia de características | Teorema de Bayes suponiendo independencia de características | Clasificación de texto, filtrado de spam, análisis de sentimientos, médico |
+| Regresión lineal | Regresión | Predecir valores continuos de salida | Ecuación lineal que minimiza la suma de los cuadrados de los residuos | Predicción de valores continuos |
+| Regresión logística | Clasificación | Predecir variable de salida binaria | Función logística que transforma la relación lineal | Tareas de clasificación binaria |
+| Árboles de decisión | Ambos | Modelar decisiones y resultados | Estructura tipo árbol con decisiones y resultados | Tareas de clasificación y regresión |
+| Bosques aleatorios | Ambos | Mejorar la precisión en clasificación y regresión | Combinación de múltiples árboles de decisión | Reducir sobreajuste, mejorar precisión |
+| SVM | Ambos | Crear hiperplano para clasificar o predecir valores continuos | Maximizar el margen entre clases o predecir valores continuos | Tareas de clasificación y regresión |
+| KNN | Ambos | Predecir clase o valor basado en vecinos más cercanos | Buscar los k vecinos más cercanos y predecir por mayoría o promedio | Tareas de clasificación y regresión, sensible a datos ruidosos |
+| Gradient Boosting | Ambos | Combinar modelos débiles para crear uno fuerte | Corregir errores iterativamente con nuevos modelos | Tareas de clasificación y regresión, mejorar precisión |
+| Naive Bayes | Clasificación | Predecir clase basada en independencia de características | Teorema de Bayes suponiendo independencia de características | Clasificación de texto, filtrado de spam, análisis de sentimientos, médico |
 
 La tabla de clasificación de algoritmos ha sido tomada de [GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/supervised-machine-learning/).
 
