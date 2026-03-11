@@ -38,6 +38,16 @@ La pérdida es una métrica utilizada para evaluar qué tan incorrectas son las 
 | Error cuadrático medio (ECM) | Es el promedio de las perdidas $L_2$ en un conjunto de $N$ ejemplos. | $\frac{1}{n} \sum \left(valor real - valor predicho\right)^2$ |
 | Raíz del error cuadrático medio (RECM) | Es la raíz cuadrada del error cuadrático medio (ECM). | $\sqrt{\frac{1}{n} \sum \left(valor real - valor predicho\right)^2}$ |
 
+El MAE y el RECM pueden diferir bastante. El MAE representa el error de predicción promedio, mientras que el RECM representa la "dispersión" de los errores y se ve más afectado por los errores más grandes.
+
+## ¿Cuándo seleccionar la regresión lineal?
+
+El algoritmo de regresión lineal es una buena opción cuando se requiere predecir un valor númerico continuo. Sin embargo, es importante tener en cuenta estos aspectos antes de seleccionar este algoritmo:
+
+- Los datos deben tener una relación lineal entre las características de entrada y la etiqueta de salida.
+- No debe haber multicolinealidad entre las características de entrada, es decir, las características no deben estar altamente correlacionadas entre sí.
+- El modelo de regresión lineal es sensible a los valores atípicos, por lo que es importante realizar un análisis de los datos para identificar y manejar los valores atípicos antes de entrenar el modelo.
+
 ## Referencias
 
 - [Curso de regresión lineal de Google](https://developers.google.com/machine-learning/crash-course/linear-regression?hl=es-419)
