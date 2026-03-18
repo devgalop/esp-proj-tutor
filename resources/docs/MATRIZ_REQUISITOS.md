@@ -18,4 +18,3 @@ En la siguiente matriz se detallan los requisitos funcionales y no funcionales p
 | RNF-001 | Operabilidad | No Funcional | Media | Sin iniciar | Interfaz fácil de usar | La interfaz debe ser fácil e intuitiva. |
 | RNF-002 | Confidencialidad | No Funcional | Alta | Sin iniciar | Datos personales protegidos | Los datos personales de los usuarios no pueden ser expuestos |
 | RNF-003 | Integridad | No Funcional | Alta | Sin iniciar | Los datos de las evaluaciones no pueden ser modificados por usuarios | Los resultados de las evaluaciones no pueden ser modificadas por los usuarios. |
-
